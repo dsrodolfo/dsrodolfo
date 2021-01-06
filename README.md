@@ -9,5 +9,6 @@ Breve Resumo:
 - 🤔 Procuro ajuda com GraphQL para .NET.  
 - 💬 Pergunte-me sobre .NET Core ou Pentest.
 - 📫 Contatos:  
+      <br />
       - E-mail: rodolfodds@hotmail.com.  
       - Medium: https://medium.com/@diasrodolfo91  
