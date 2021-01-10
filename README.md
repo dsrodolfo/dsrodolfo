@@ -15,4 +15,7 @@ Breve Resumo:
       -> E-mail: rodolfodds@hotmail.com  
       -> Medium: https://medium.com/@diasrodolfo91  
 
+<br />
+<img src="https://github-readme-stats.vercel.app/api?username=dsrodolfo&&show_icons=true&title_color=ffea00&icon_color=ffea00&text_color=FFFFFF&bg_color=151515">
+<br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsrodolfo&theme=tokyonight">
