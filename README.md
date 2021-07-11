@@ -11,9 +11,10 @@ Breve Resumo:
 - 🌱 Atualmente estudo .NET Core, Cybersecurity e Pentest.
 - 🤔 Procuro ajuda com GraphQL para .NET.  
 - 💬 Pergunte-me sobre .NET Core ou Pentest.
-- 📫 Contatos:  
-      -> E-mail: rodolfodds@hotmail.com  
-      -> Medium: https://medium.com/@diasrodolfo91  
+- 📫 Redes Sociais: 
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodolfo-dias-da-silva-1193a619b)](https://www.linkedin.com/in/rodolfo-dias-da-silva-1193a619b)
+[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://medium.com/@diasrodolfo91)](https://medium.com/@diasrodolfo91)
 
 ![Rodolfo's github stats](https://github-readme-stats.vercel.app/api?username=dsrodolfo&theme=default&show_icons=true)
 <br />
