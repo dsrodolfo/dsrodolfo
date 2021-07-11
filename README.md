@@ -14,7 +14,7 @@ Breve Resumo:
 - 📫 Redes Sociais: 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rodolfo-dias-da-silva-1193a619b)](https://www.linkedin.com/in/rodolfo-dias-da-silva-1193a619b)
-[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://medium.com/@diasrodolfo91)](https://medium.com/@diasrodolfo91)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@diasrodolfo91)](https://medium.com/@diasrodolfo91)
 [![HackerRank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/diasrodolfo91)](https://www.hackerrank.com/diasrodolfo91)
 
 ![Rodolfo's github stats](https://github-readme-stats.vercel.app/api?username=dsrodolfo&theme=default&show_icons=true)
