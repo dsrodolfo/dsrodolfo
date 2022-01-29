@@ -17,7 +17,21 @@ Breve Resumo:
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@diasrodolfo91)](https://medium.com/@diasrodolfo91)
 [![HackerRank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/diasrodolfo91)](https://www.hackerrank.com/diasrodolfo91)
 
-![Rodolfo's github stats](https://github-readme-stats.vercel.app/api?username=dsrodolfo&theme=default&show_icons=true)
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsrodolfo&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+## Tecnologias e Ferramentas
+![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=ffea00)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ffea00)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=ffea00)
+<br>
+![](https://img.shields.io/badge/Tools-Visual_Studio-informational?style=flat&logo=visual-studio-code&logoColor=white&color=ffea00)
+![](https://img.shields.io/badge/Tools-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=ffea00)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=ffea00)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=ffea00)
 
+## Estatísticas do GitHub
+
+<a href="https://github.com/dsrodolfo/dsrodolfo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsrodolfo&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/dsrodolfo/dsrodolfo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dsrodolfo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ffea00&bg_color=1d1f21" alt="Rodolfo's GitHub Stats" />
+</a>
