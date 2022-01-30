@@ -21,7 +21,7 @@ Atualmente estou me especializando na criação de aplicações baseadas em Grap
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=for-the-badge&logo=postman&logoColor=white&color=ffea00)
 
 ## Estatísticas do GitHub
-[![Github](https://img.shields.io/github/followers/dsrodolfo?style=for-the-badge&label=Follow&logo=github&logoColor=white&color=ffea00)](https://github.com/dsrodolfo)
+[![Github](https://img.shields.io/github/followers/dsrodolfo?style=for-the-badge&label=Followers&logo=github&logoColor=white&color=ffea00)](https://github.com/dsrodolfo)
 
 <a href="https://github.com/dsrodolfo/dsrodolfo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsrodolfo&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
