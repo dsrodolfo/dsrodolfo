@@ -25,9 +25,9 @@
 
 ## Bancos de Dados
 
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=ffea00)
-![](https://img.shields.io/badge/Tools-SQL_Server-informational?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&color=ffea00)
-![](https://img.shields.io/badge/Tools-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=ffea00)
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=ffea00)
+![](https://img.shields.io/badge/Database-SQL_Server-informational?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&color=ffea00)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=ffea00)
 
 ## Tecnologias e Ferramentas
 
